@@ -1,1 +1,1 @@
-let mes = 'Junio de Cuarentena'
+let = "soy del rojo"
